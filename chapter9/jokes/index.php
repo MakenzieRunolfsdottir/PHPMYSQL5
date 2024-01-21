@@ -27,3 +27,4 @@ foreach ($result as $row)
 }
 
 include 'jokes.html.php';
+ 
